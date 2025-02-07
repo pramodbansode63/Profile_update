@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/parmeshwar-bansode-341687157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-s-68a0571b4" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pramod___here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.rasigan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/pramodbansode63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveen6052531" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parmeshwar-bansode-341687157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodbansode63-341687157" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pramod___here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramod___here" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pramodbansode63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pramodbansode" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
